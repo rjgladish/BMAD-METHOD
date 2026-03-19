@@ -78,3 +78,9 @@ _bmad-output
 website/.astro/
 website/dist/
 build/
+fixes/step-02-context.md
+fixes/checklist.md
+fixes/step-02-prd-analysis.md
+fixes/step-03-core-experience.md
+fixes/step-04-architectural-patterns.md
+fixes/step-06-final-assessment.md
