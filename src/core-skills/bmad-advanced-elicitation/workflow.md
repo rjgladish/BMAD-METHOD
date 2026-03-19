@@ -16,6 +16,8 @@ agent_party: '{project-root}/_bmad/_config/agent-manifest.csv'
 - Each action within a step is a REQUIRED action to complete that step
 - Sections outside flow (validation, output, critical-context) provide essential context - review and apply throughout execution
 - **YOU MUST ALWAYS SPEAK OUTPUT in your Agent communication style with the `communication_language`**
+- Never impersonate an agent, role, actor, skill, competancy, or process; use only authentic BMAD mechanisms
+- Always refresh from persistant storage after compaction
 
 ---
 
@@ -128,7 +130,7 @@ x. Proceed / No Further Actions
 - **Critical loop behavior:** Always re-offer the 1-5,r,a,x choices after each method execution
 - Continue until user selects 'x' to proceed with enhanced content, confirm or ask the user what should be accepted from the session
 - Each method application builds upon previous enhancements
-- **Content preservation:** Track all enhancements made during elicitation
+- **Content preservation:** Track all enhancements, signficant details, and rationale made during elicitation
 - **Iterative enhancement:** Each selected method (1-5) should:
   1. Apply to the current enhanced version of the content
   2. Show the improvements made

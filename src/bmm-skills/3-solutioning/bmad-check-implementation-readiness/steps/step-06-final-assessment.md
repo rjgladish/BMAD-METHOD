@@ -27,7 +27,7 @@ To provide a comprehensive summary of all findings and give the report a final p
 
 ### Step-Specific Rules:
 
-- 🎯 Compile and summarize all findings
+- 🎯 Compile and consolidate all findings
 - 🚫 Don't soften the message - be direct
 - 💬 Provide specific examples for problems
 - 🚪 Add final section to the report

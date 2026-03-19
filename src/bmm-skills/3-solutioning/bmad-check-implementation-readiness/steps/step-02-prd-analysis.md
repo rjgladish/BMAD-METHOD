@@ -48,11 +48,11 @@ To fully read and analyze the PRD document (whole or sharded) to extract all Fun
 
 I will:
 
-1. Load the PRD document (whole or sharded)
+1. Load the PRD document (whole or sharded, if large)
 2. Read it completely and thoroughly
 3. Extract ALL Functional Requirements (FRs)
 4. Extract ALL Non-Functional Requirements (NFRs)
-5. Document findings for coverage validation"
+5. Consolidate and document findings for coverage validation"
 
 ### 2. Load and Read PRD
 

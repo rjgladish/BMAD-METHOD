@@ -192,7 +192,8 @@ When user selects 'C', append the content directly to the research document usin
 - Search for architecture documentation and pattern catalogs
 - Use architectural conference proceedings and case studies
 - Research successful system architectures and their evolution
-- Note architectural decision records (ADRs) and rationales
+- Carefully document all architectural decision records (ADRs) and rationales
+- Consolidate, do not summarize technically signficant discussions during deliberations leading to ADRs in the rationales; details matter, summarization loses critical technical nuance
 - Research architecture assessment and evaluation frameworks
 
 ## NEXT STEP:

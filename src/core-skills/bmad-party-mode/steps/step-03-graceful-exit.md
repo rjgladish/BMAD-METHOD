@@ -8,6 +8,7 @@
 - 🔍 ACKNOWLEDGE SESSION HIGHLIGHTS and key insights gained
 - 💬 MAINTAIN POSITIVE ATMOSPHERE until the very end
 - ✅ YOU MUST ALWAYS SPEAK OUTPUT In your Agent communication style with the config `{communication_language}`
+- ✅ YOU MUST ENSURE THAT SIGNIFICANT DETAILS THAT INFORM subsequent Courses of Action, such as DECISIONS, DESIGN, and RATIONALE ARE PRESERVED in the PERMANENT RECORD`
 
 ## EXECUTION PROTOCOLS:
 
@@ -16,6 +17,7 @@
 - 💾 Update frontmatter with final workflow completion
 - 📖 Clean up any active party mode state or temporary data
 - 🚫 FORBIDDEN abrupt exits without proper agent farewells
+- 🚫 FORBIDDEN loss of project details that inform subsequent Courses of Action, such as DECISIONS, DESIGN, and RATIONALE
 
 ## CONTEXT BOUNDARIES:
 
@@ -63,12 +65,17 @@ For each selected agent:
 - **Innovator/Creative Agent**: "What an inspiring creative journey! Don't let those innovative ideas fade - nurture them and watch them grow. Keep thinking outside the box! 🎨"
 - **Strategist/Business Agent**: "Excellent strategic collaboration today! The insights we've developed will serve you well. Keep analyzing, keep optimizing, and keep winning! 📈"
 
-### 3. Session Highlight Summary
+### 3. Session Highlights
 
-Briefly acknowledge key discussion outcomes:
+Briefly acknowledge key discussion outcomes, rationale, and changes resulting from exchange. 
+Assure the participants that important details and comprehensive understanding elicited during delibrations has been carefully consolidated without loss of essential details and preserved within the approriate [record].
 
 **Session Recognition:**
-"**Session Highlights:** Today we explored [main topic] through [number] different perspectives, generating valuable insights on [key outcomes]. The collaboration between our [relevant expertise domains] agents created a comprehensive understanding that wouldn't have been possible with any single viewpoint."
+"**Session Highlights:** Today we explored [main topic] through [number] different perspectives. The collaboration between our [relevant expertise domains] agents created a comprehensive understanding that wouldn't have been possible with any single viewpoint.
+"**Items of Significance:** The following valuable insights emerged from the exchange:
+    - [key outcomes]
+    - key [decision factors] informing, driving, or impacting [planning|decision|design|implementation|quality|performance|effectiveness|documentation|deployment] courses of action
+    - planning, decision, design, implementation, [rationale] and [decision factors]
 
 ### 4. Final Party Mode Conclusion
 

@@ -192,8 +192,8 @@
 
 <check-item id="5.2">
 <prompt>Document epic impact and artifact adjustment needs</prompt>
-<action>Summarize findings from Epic Impact Assessment (Section 2)</action>
-<action>Summarize findings from Artifact Conflict Analysis (Section 3)</action>
+<action>Consolidate findings from Epic Impact Assessment (Section 2)</action>
+<action>Consolidate findings from Artifact Conflict Analysis (Section 3)</action>
 <action>Be specific about what changes are needed and why</action>
 <status>[ ] Done / [ ] N/A / [ ] Action-needed</status>
 </check-item>
@@ -240,7 +240,7 @@
 <prompt>Verify Sprint Change Proposal accuracy</prompt>
 <action>Review complete proposal for consistency and clarity</action>
 <action>Ensure all recommendations are well-supported by analysis</action>
-<action>Check that proposal is actionable and specific</action>
+<action>Check that proposal is actionable, specific, and rationale is clearly documented</action>
 <status>[ ] Done / [ ] N/A / [ ] Action-needed</status>
 </check-item>
 

@@ -168,14 +168,15 @@ Check for exit conditions before continuing:
 
 **Quality Control:**
 
-- If discussion becomes circular, have bmad-master summarize and redirect
+- If discussion becomes circular, have bmad-master consolidate the relevant details and redirect
 - Ensure all agents stay true to their merged personalities
 - Handle disagreements constructively and professionally
 - Maintain respectful and inclusive conversation environment
+- Preserve the provenance and pedigree of outcomes through diligent consolidation of essential details that emerge
 
 **Flow Management:**
 
-- Guide conversation toward productive outcomes
+- Guide conversation toward productive outcomes, and clear rationale
 - Encourage diverse perspectives and creative thinking
 - Balance depth with breadth of discussion
 - Adapt conversation pace to user engagement level

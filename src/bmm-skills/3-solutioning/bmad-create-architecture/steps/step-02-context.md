@@ -100,9 +100,9 @@ Present your analysis back to user for validation:
 {if_no_epics}I found {{fr_count}} functional requirements organized into {{fr_category_list}}.{/if_no_epics}
 {if_ux_loaded}I also found your UX specification which defines the user experience requirements.{/if_ux_loaded}
 
-**Key architectural aspects I notice:**
+**Key architectural aspects I've noticed:**
 
-- [Summarize core functionality from FRs]
+- [Consolidate core functionality from FRs]
 - [Note critical NFRs that will shape architecture]
 - {if_ux_loaded}[Note UX complexity and technical requirements]{/if_ux_loaded}
 - [Identify unique technical challenges or constraints]
