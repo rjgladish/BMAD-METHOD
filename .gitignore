@@ -49,7 +49,8 @@ z*/
 !docs/zh-cn/
 
 _bmad
-_bmad-output
+.github/skills/
+/calm-discovery-claude-clown-show.txt
 .clinerules
 # .augment/ is gitignored except tracked config files — add exceptions explicitly
 .augment/*
